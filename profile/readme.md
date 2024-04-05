@@ -24,7 +24,7 @@ Personal organisation by [Theodor](https://github.com/7H30D0R)
 **ChadGPT**$~~~$*Coming soon...*\
 $~~~$@ [chad.atheus.dk](https://chad.atheus.dk)
 
-<img  src="https://chad.atheus.dk/Gigachad-Transparent.png" width="160">
+<img  src="https://chad.atheus.dk/Gigachad-Transparent.png" width="150">
 <!-- TODO: Confirm image license and add attribution -->
 
 [1]: [http://www.quotedb.com/quotes/2112](https://librivox.org/)
