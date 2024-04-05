@@ -11,11 +11,12 @@
 </p>
 
 ## Creative vision
-> This is a LiberaVox recording
-— LiberaVox recordings
+> This is a LibriVox recording...\
+> &mdash; <cite>*Libri**Vox** recordings*</cite>
 
-*Licenses to be determined.*
+Licenses to be determined.
 
 ## About
 Personal organization by [Theodor](https://github.com/7H30D0R)
 
+[1]: [http://www.quotedb.com/quotes/2112](https://librivox.org/)
