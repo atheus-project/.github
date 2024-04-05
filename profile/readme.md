@@ -1,5 +1,5 @@
 <h1 align="center">The Atheus Project</h1>
-<p align="center"><a href="http://atheus.dk">atheus.net</a> | <a href="http://atheus.net">atheus.dk</a></p>
+<p align="center"><a href="http://atheus.net">atheus.net</a> | <a href="http://atheus.dk">atheus.dk</a></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
