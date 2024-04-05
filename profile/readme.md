@@ -22,7 +22,7 @@ Personal organisation by [Theodor](https://github.com/7H30D0R)
 
 ## See also
 **ChadGPT**$~~~$*Coming soon...*\
-$~~~$@ [chad.atheus.dk](https://chad.atheus.dk)
+$~~~$@ [chad.atheus.net](https://chad.atheus.net)
 
 <img  src="https://chad.atheus.dk/Gigachad-Transparent.png" width="150">
 <!-- TODO: Confirm image license and add attribution -->
