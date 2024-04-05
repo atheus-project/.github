@@ -11,10 +11,10 @@
 </p>
 
 ## Creative vision
+🎓 https://en.wikipedia.org/wiki/Pirate_Party 
+
 > This is a LibriVox recording...\
 > &mdash; <cite>*Libri**Vox** recordings*</cite>
-
-Licenses to be determined.
 
 ## About
 Personal organisation by [Theodor](https://github.com/7H30D0R)
