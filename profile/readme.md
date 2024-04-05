@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes&perline=1" />
+    <img src="https://skillicons.dev/icons?i=kubernetes&perline=1" title="Kubernetes" alt="Kubernetes icon" />
   </a>
 </p>
 <p align="center">
