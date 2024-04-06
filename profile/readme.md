@@ -17,7 +17,6 @@
 > &mdash; <cite>*LibriVox recordings*</cite>
 
 ## About
-Personal organisation created with the purpose of managing and categorising repositories.
 
 Profile picture by [Fractal Paradox](https://www.youtube.com/@FractalParadox) (unlicensed) &mdash;
 [Shadesmar - A Stormlight Archive fan animation](https://www.youtube.com/watch?v=jY-V_ocCrHA).
