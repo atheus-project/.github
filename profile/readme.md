@@ -14,7 +14,7 @@
 🎓 https://en.wikipedia.org/wiki/Pirate_Party 
 
 > This is a LibriVox recording...\
-> &mdash; <cite>*Libri**Vox** recordings*</cite>
+> &mdash; <cite>*LibriVox recordings*</cite>
 
 ## About
 Personal organisation created with the purpose of managing and categorising repositories.
