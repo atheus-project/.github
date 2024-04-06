@@ -17,15 +17,10 @@
 > &mdash; <cite>*Libri**Vox** recordings*</cite>
 
 ## About
-Personal organisation by [Theodor](https://github.com/7H30D0R)
+Personal organisation created with the purpose of managing and categorising repositories.
 
-
-## See also
-**ChadGPT**$~~~$*Coming soon...*\
-$~~~$@ [chad.atheus.net](https://chad.atheus.net)
-
-<img  src="https://chad.atheus.dk/Gigachad-Transparent.png" width="150">
-<!-- TODO: Confirm image license and add attribution -->
+Profile picture by [Fractal Paradox](https://www.youtube.com/@FractalParadox) (unlicensed)\
+[Shadesmar - A Stormlight Archive fan animation](https://www.youtube.com/watch?v=jY-V_ocCrHA)
 
 [1]: [http://www.quotedb.com/quotes/2112](https://librivox.org/)
 
